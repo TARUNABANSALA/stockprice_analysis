@@ -1,4 +1,5 @@
-# stockprice_analysis
+# Apple stockprice_analysis [Detailed Analysis](https://github.com/TARUNABANSALA/stockprice_analysis/blob/main/stockprice_timeseries_analysis.ipynb)
+
 Stock-Market-Analysis-With-Python
 Performing the Financial Analysis on Historic Stock Market Data such as calculating various risks, returns,etc.
 
